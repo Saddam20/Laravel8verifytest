@@ -1,0 +1,155 @@
+*{
+   margin: 0px;
+   padding:0px;
+   outline:0px; 
+}
+
+img{
+
+    border:0px;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.home_page_content{
+    min-height: 55vh;
+}
+.card_header_title{
+
+}
+.card_header_title h4{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 4px;
+}
+.clr{
+    clear: both;
+}
+.card_header_btn{
+
+}
+
+.card_btn{
+    line-height: 15px;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.custom_table{
+
+}
+.custom_table tr{
+    
+}
+.custom_table tr th{
+    
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+} 
+.custom_table tr th{ font-size: 13px;}
+.custom_form_group{}
+.custom_form_group label{}
+.col_form_label{
+    text-align: center;
+    font-weight: bold;
+    margin-right: -15px;
+    font-size: 14px;
+}
+.form_control{
+
+}
+.card_footer_btn button{
+
+    background-color: #000!important;
+    padding: 10px!important;
+    color: #fff!important;
+    font-weight: bold!important;
+    text-transform: uppercase!important;
+
+}
+
+.home_page_row{
+
+    min-height: 70vh;
+
+}
+table.view_table{
+
+}
+table.view_table tr{
+
+}
+table.view_table tr td{
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+table.view_table tr td:first-child{
+
+    text-align: right;
+    width: 28%;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+table.view_table tr td:last-child{
+
+    text-align: left;
+    width: 70%;
+    font-weight: normal;
+    font-size: 13px;
+
+}
+.invalid-feedback{
+
+    display: block!important;
+    padding-left: 10px;
+    font-style: italic;
+
+}
+.has-error label{
+
+    color: red;
+
+}
+.has-error.form_control{
+
+    border: 1px solid red;
+
+
+}
+.upload_image{
+
+    height: 100px;
+    max-width: 100px;
+    margin-top: 10px;
+
+}
+.upload_logo{
+
+    max-height: 100px;
+    margin-top: 10px;
+
+}
+
+.upload_favicon{
+
+    max-height: 50px;
+    margin-top: 10px;
+}
+.upload_flogo{
+
+    max-height: 100px;
+    margin-top: 10px;
+
+}
